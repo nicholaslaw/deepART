@@ -1,0 +1,13 @@
+numpy==1.20.3
+matplotlib==3.4.2
+joblib==1.0.1
+nltk==3.6.2
+torch==1.8.1
+torchvision==0.9.1
+gensim==4.0.1
+spacy==3.0.6
+scikit-learn==0.24.2
+pandas==1.2.4
+scikit-fuzzy==0.4.2
+hdbscan==0.8.27
+jupyter
